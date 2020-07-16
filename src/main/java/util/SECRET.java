@@ -1,7 +1,7 @@
 package util;
 
 public class SECRET {
-    private String secret = "NzMzMjUzMjQ1NTM4OTI2Njcy.XxBgWA.goNqRQN5JywCQ-08dqfLvvOv1WI";
+    private String secret = "insert token";
 
 
     public String getSecret() {
